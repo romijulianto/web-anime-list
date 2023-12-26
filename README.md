@@ -1,4 +1,5 @@
 # Web Anime List with Server Action in Next JS
+![Anime Website](https://i.ibb.co/Tgkr6xx/web-anime.png)
 
 ### Instalation
 ```
